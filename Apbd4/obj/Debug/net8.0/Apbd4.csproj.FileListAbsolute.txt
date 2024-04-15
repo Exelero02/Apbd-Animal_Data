@@ -1,0 +1,14 @@
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\bin\Debug\net8.0\Apbd4.exe
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\bin\Debug\net8.0\Apbd4.deps.json
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\bin\Debug\net8.0\Apbd4.runtimeconfig.json
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\bin\Debug\net8.0\Apbd4.dll
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\bin\Debug\net8.0\Apbd4.pdb
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\Apbd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\Apbd4.AssemblyInfoInputs.cache
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\Apbd4.AssemblyInfo.cs
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\Apbd4.csproj.CoreCompileInputs.cache
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\Apbd4.dll
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\refint\Apbd4.dll
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\Apbd4.pdb
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\Apbd4.genruntimeconfig.cache
+C:\Users\ALBERTUS\RiderProjects\Apbd4\Apbd4\obj\Debug\net8.0\ref\Apbd4.dll
