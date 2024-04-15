@@ -81,7 +81,7 @@ namespace Apbd4
     {
         public static async Task<string> ReadToEndAsync(this System.IO.Stream stream)
         {
-            using (var reader = new System.IO.StreamReader(stream))
+            using (var reader = new StreamReader(stream))
             {
                 return await reader.ReadToEndAsync();
             }
